@@ -17,7 +17,7 @@ A biblioteca fastled foi usada para controlar os LEDs, a biblioteca ESP_WiFiSett
 
 Para implementar a página web de controle da fita foi usada a biblioteca WebServer (que também é usada pelo WiFiSettings). A página é bem minimalista e é estática (o que acarreta em sempre apresentar as opções default).
 
-./Config.png
+![Página web de configuração](./Config.png)
 
 São implementados quatro modos de operação para a fita de LEDs:
 
